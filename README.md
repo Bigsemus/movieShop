@@ -1,1 +1,1 @@
-# movieShop
+# movieShop simple App
